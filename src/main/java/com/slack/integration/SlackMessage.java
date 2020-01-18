@@ -1,4 +1,4 @@
-package com.lalit.slack;
+package com.slack.integration;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
