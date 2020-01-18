@@ -1,4 +1,4 @@
-package com.lalit.slack;
+package com.slack.integration;
 
 public class SlackTest {
     public static void main(String[] args) {
